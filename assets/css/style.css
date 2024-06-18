@@ -769,7 +769,7 @@ section {
     padding: 10px;
     border-radius: 5px;
     margin-bottom: 30px;
-    box-shadow: 0 10px 20px 3px black;
+    box-shadow: 0 10px 20px 3px #27c0ff;
     cursor: pointer;
     transition: transform .5s;
 }
@@ -1019,7 +1019,7 @@ section {
   font-size: 14px;
   position: fixed;
   left: 0;
-  bottom: 0;
+  bottom: 100px;
   width: 300px;
   z-index: 9999;
   background: #040b14;
